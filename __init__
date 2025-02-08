@@ -1,16 +1,164 @@
 
-Text in (paranthases) is to be empirically proven.
-"""
+Q1. Why in Classical Arabic?
 
-This is motivated by McCarthy, (1981); a treatment of the nonconcatenative morphological system of Classical Arabic verbal system (Cl.Ar). 
-Semitic languages processes of morphological derivation are characterised by a wide variety of purely morphological alternations internal to the verb stem
-(it's more of phonological alternations than morphological ones).
+This is done in Classical Arabic for one reasons which is E'rab. The following text is from "Encyclopaedia_of_Islam_vol_3_H-Iram"( I will put this in a modern Linguistic terms):
 
-Thus, Cl.Ar Morphological categories are expressed by morphemes whose only constant is a fixed canonical pattern based on triplicity concept; hree consononts whose 
-nucli. is ء. (for accuracy sakes, the constant is the template's phonological rules/patterns.) 
-Indeed, this seaminglly simple trivil fact holds the key to this complix system. This project aims at explicating the system of predicates used to analyze inputs
-i.e. the possible structural descriptions of rules, and to define the operations available for transforming inputs, the possible structural changes of rules.
-Ultimitly, a structural description delimiting a class of inputs and a Structural Change specifying the operations that altered the input are sought.
+
+I'rab is a technical term in Arabic grammar. It is sometimes found translated as "inflexion", as by G. Fliigel (Die gram. Schulen, 15), who also
+unjustifiably extended the sphere of this "inflexion". Nevertheless in translating thus, one comes up against the way in which the Arab grammarians
+envisaged this "inflexion". It should be pointed out, first of all, that these grammarians had no proper term for "declension"and "conjugation", and
+no general term for "case" and "mood". They proceed in a purely formal manner.
+
+Taking sounds into consideration, they make the following division:
+						(a) raf = nominative (as al-radiul-u) and indicative (as yaktul-u), because both take -u and are thus marfu'; 
+
+						(b) nasb = accusative (as al-rad[ul-a) and  subjunctive (as yaktul-a), because both take -a and are thus mansub; 
+
+						(c) dj_arr (khafd to the Kufans) = genitive (as al-radjul-i), because it takes -i and is thus madjrur (makhfud).
+
+This last has no counterpart in the imperfective of the verb; the latter, instead of adding a vowel, suppresses a vowel: they say: dj_azm "cutting" and
+this imperfective is madj_zum "apocopated" (as yaktul); it forms the jussive.
+
+
+In this formal distribution of the three short vowels of the Arabic language the Arab grammarians mingle noun and verb. In addition, for the noun,
+they consider only the singular, adding merely the qualification munsarif to nouns of three cases (as al-radjul above) and ghayr munsarif to those of only
+two cases, such as Ahmad: ahmad-u (nom.), aJtmad-a (gen. and ace.). In the imperfective of the verb they introduce formal distinctions of moods only when
+these are formed by the addition of a short vowel (-u, -a) or by its suppression (madj_zum).
+
+
+Arab grammarians, then, do not think of "declension" and "conjugation" as an organic whole, or as a system. Hence the lack of denomination in their
+terminology and also the difficulty of giving complete precision to "inflexion", when translating i'rab thus.
+
+On the other hand, and this is most important, they always consider the occurrence of the short vowels in terms of a cause: al amil (العامل), "a governor".
+Things are regarded from a syntactical point of view. This is true to such an extent that if i'rab is known all the awamil (العوامل) are known, and the major part of
+Arabic syntax is also known; thus ailm alnahw (علم النحو) can also be called ailm al-i'rab (علم الإعراب)(Diet, of Techn. Terms, 17).
+
+As for de Sacy, he considered that the word i'rab could not be rendered more exactly than by "Syntax of terminations" or "terminational syntax" 
+(Anthologie grammatical, i, 186, end n. 2). The i'rab thus understood is outside morphology, as we understand it.The conclusion from all this is that we have no
+adequate term directly to translate ailm al-i'rab (علم الإعراب). 
+
+A periphrasis is necessary; it is best to adopt the definition that Arab grammarians have themselves given of ailm al-i'rab (علم الإعراب), 
+for example that of the Ta'rifdt of al-Dlurdiani (Cairo 1321), 20: huwa ikhtilf akhir al-kalima bikhtilf al-awamil lafzan
+ aw takdirn"*,  ( هو إختلاف أخر الكلمة بإختلاف العوامل لفظأً أو تقديراً - بحركة أو حرف)
+
+"it is the difference that occurs, in fact or virtually (Explicitly or tacitly), at the end of a word, because of the various antecedents that govern it"; 
+bi-haraka aw harf, "by haraka or harf", adds the Mufassal of al-Zamakhshari (§16).
+
+
+This definition is bound up with a whole system. By ailm al-i'rab (علم الإعراب) Arab grammarians denote, first of all, basically the use of the three harakat: ]
+damma (-u), kasra (-i) and fatha (-a), at the end of the singular noun, which is thus mu'rab (معرب) (the ghayr munsarif is
+included). This is i'rab lafdy (لفظي) , "actual i'rab". Words like *asa-n "stick", ma
+c
+na-n "sense, meaning",
+which are, in fact, invariable in the singular, are
+nonetheless called mu
+c
+rab, but takdiran
+, "virtually",
+because of the asl (base): rafc
+: *c
+asawu-un, *mac
+nayun, etc., which is supposed "virtually" to exist
+
+behind these words. 
+
+
+They contrast i'rab with its opposite: bina (البناء)* "to build", which denotes the state of a word that is fixed to one final haraka(Vowel) or to none at all(Sukoon),
+independently of any "amil", or whatever the "amil" may be. It is thus called mabni: mabni: ala'l-damma (as mundhu "since"), ala 'l-kasra (as hd*uld*i(هؤلاء) "these"),
+ala 'l-fatjia (as ayna (أين) "where?"), or mabni ala sukun "fixed to quiescence" (as kam "how much?").
+
+The Basran grammarians thus established the following principles: 
+i'rab belongs to the noun, bind* to the verb and the fruruf (particles). This is the asl, the base. Thus the imperfective of the verb has no right to be mu'rab; 
+it receives its i'rab as a far3 (فرع) (branch) by virtue of its resemblance to the noun; this is why it is called al-mudari*- "resembling"
+[the ism f'Hl (إسم الفاعل), the nomen agentis]. Alasma* al-sitta (الأسماء الستة), in the construct state, end, from theirpoint of view, with a harf sakin (الحرف الساكن):
+alif(ألف), waw (واو) or ya3 (ياء) ; words like dhu (ذو) "possessor of", abu (أبو) "father of", akhu (أخو) "brother of", hamu (حمو) "father-in-law of", hanu () "thing
+of", fu (فو) "mouth of". In these words there is i'rab bi-harf (إعراب بالحرف), "i'rab  by means of a lharf" (the above mentioned harf sakin}
+far3 (فرع) of the basic i'rab of the noun by haraka, the asl (الأصل).
+
+
+The plurals of nouns in -una, -ina and the duals in
+-dni, -ayni, like: al-muslim-u-na, al-muslim-d-ni, etc.,
+have been the subject of long discussion. Al-Khalil
+and Sibawayhi, followed by the majority of Basrans,
+see in the alif, wdw or yd* of the Arabic orthography
+merely a harf al-i^rdb. By this expression is meant
+the last harf of a word, which carries the i^rdb and
+cannot be suppressed without making the word
+unrecognizable, like the d in Zayd. There is, strictly
+speaking, no i*rdb, but the following n is a kind of
+Hwad, a "compensation" for the haraka and the
+tanwin (-un, -in, -an) of the indefinite singular noun,
+which have disappeared in the formation (Sibawayhi,
+i, 3, 12-3, 17-8); this noun, in their view, precedes
+the noun defined by al-. In the imperfective, on the
+other hand, the nun, the sign of the ra/c
+ in the masc.
+pi. yafytul-u-na, tafrtul-u-na, of the duals yafctul-d-ni,
+taktul-d-ni, and of the fern. sing, tafytul-i-na, is thought
+of as constituting the i'rdb (Sibawayhi, i, 4, line 8),
+for it can be suppressed without making the forms
+unrecognizable. As for the fern. pi. yafrtul-na, taktul-na
+(ibid., 4, lines 20-4; Ibn
+ cAkil, i, 36, lines 14-5), it
+falls under bind*, mabni *ald sukun before -na, a
+damir (personal pronoun), from their point of view.
+The energetic, on the other hand, is seen only as
+comprising a particle, the nun, before which the verb
+is mabni *ala 'l-fatha (Sibawayhi, i, 5, 6): yafrtula-n
+or yafytula-nna, etc.
+The verbal forms are thus considered in isolation.
+not being included in a whole, a conjugation, and
+this confirms that which we have seen above. The
+interest of Arab grammarians lies elsewhere. That
+which they study is the organization of the i'rdb, as
+they understand it: they first separate the mucrab
+and the mabni then, within the mu'rab, distinguish
+the actual and the virtual, and then finally establish
+the ramification of the furu* from the basic i^rdb of
+the noun by fyaraka, the asl.
+Arab grammarians give three explanations of the
+term ic
+rdb (Ibn al-Anbari, Asrdr al-c
+arabiyya, 9-10).
+The most common (cf. Lisdn, ii, 78, 2 from end/i,
+5893, 21-2) is that which makes i*rdb the infinitive
+of a
+c
+raba c
+an in the sense of "make clear, manifest",
+because i*rdb "shows" the various functions of the
+word in the sentence: agent, object, construct, etc.
+(See also Ibn DjiDni, Khasd*is, Cairo 1371/1952, i,
+35-7). This is scarcely satisfactory. J. Weiss (see
+I
+CRAB, in El1
+) sums up the solutions of the Orien alists. Like him, we think that "in this, too, it is
+the simplest that is the most likely", that is, to
+take a'raba in the sense of: "to Arabize, pronounce
+a word in the manner of the pure Arabs" (cf. the
+remark of Ibn Djinni. ibid., 36, lines 7-8). We would
+wish to bring this out in the light of the linguistic
+situation in which at least the first three generations
+of grammarians, from
+ cAbd Allah b. Abi Isfcak
+(born about 30/651, d. 117/735} to Sibawayhi (d. I77/
+793)» found themselves: Arabic without i*rdb learnt
+and spoken by the Arabized, Arabic without i'rdb
+spoken in the towns themselves that the Arabs had
+created (Basra, Kufa; see H. Fleisch, Arabe classique
+et arabe dialectal, in Travaux et Jours, no. 12 (1964),
+43-5) and the contrast provided by contact with the
+Beduin Arabs whose speech was still equipped with
+i*rdb. The Arab grammarians wished to "Arabize"
+the language of their society, to make it conform to
+the speech of these Beduins, the carriers of the
+"true" Arabic; this is most probable and quite
+sufficient to explain a*raba, i'rdb as we have taken it.
+By doing this, we are maintaining that ic
+rdb was
+retained by the tribes at least until the end of the
+2nd/8th century (without deciding for later times;
+see H. Fleisch, Trait* de philologie arabe, i, § 58).
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
  													***تصاريف الفعل*** 
