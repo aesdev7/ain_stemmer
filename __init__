@@ -1,0 +1,133 @@
+
+Text in (paranthases) is to be empirically proven.
+"""
+
+This is motivated by McCarthy, (1981); a treatment of the nonconcatenative morphological system of Classical Arabic verbal system (Cl.Ar). 
+Semitic languages processes of morphological derivation are characterised by a wide variety of purely morphological alternations internal to the verb stem
+(it's more of phonological alternations than morphological ones).
+
+Thus, Cl.Ar Morphological categories are expressed by morphemes whose only constant is a fixed canonical pattern based on triplicity concept; hree consononts whose 
+nucli. is ء. (for accuracy sakes, the constant is the template's phonological rules/patterns.) 
+Indeed, this seaminglly simple trivil fact holds the key to this complix system. This project aims at explicating the system of predicates used to analyze inputs
+i.e. the possible structural descriptions of rules, and to define the operations available for transforming inputs, the possible structural changes of rules.
+Ultimitly, a structural description delimiting a class of inputs and a Structural Change specifying the operations that altered the input are sought.
+________________________________________________________________________________________________________________________________________________________________________________________________
+
+ 													***تصاريف الفعل*** 
+  
+:لما أنهى الناظم رحمه الله حكم أبنية المضارع المبني حكم أبنية الفعل المجرد وهو الأربعة : فَــعْــلَــلَ وفَــعُــلَ وفَــعِــلَ وفَــعَــل، شرع في تصاريفه .وتصريف الفعل هو إختلاف حال مضارعه بضم أو كسر أو فتح . وبدأ بمضارع فــعُــل المضموم ثم المكسور لقلة الكلام عليهما. فقال
+
+												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+												ح موضع الكسر في المبني من فَعِلا <> فالضمّ من فعُل الزم في المضارع وافتـ
+ 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+
+                                                                                   .أي: والزم ضمة العين التي في فَــعُــل المضموم في مضارعه أيضاً، فنقول في كَرُمَ يكــرُمُ، وفي شرُف يشرُف. ولم يشذ من ذلك شيء أصلا إلا ما جاء على تداخل اللغتين.
+                                                                                                      .ثم قال: وافتح موضع الكسر، وهو العين من فَعِل المكسور في المضارع المبني منه، فنقول في : فَرِحَ يفرَح وفي سمِعَ يسمَعُ. وهذا هو الأصل
+                                                                                                            
+
+												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+												وجهان فيه من إحسب مع وغرت وحــر ><ت انعم بئست يئست أوله يبس وهلا
+ 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+
+                                                                                   وقد شذّت منه أفعال محصورة جاء في مضارعها الكسر وهي ضربان (١). ضرب جاء مع الكسرة فيه الفتحُ أيضاً الذي هو الأصل.وإليه أشار المؤلف رحمه الله في البيت أعلاه .وهي تسعة أفعال: 
+ 
+                                                                                      .حــسِــب بمعنى ظن يقال حَــسِــبه يحْــسَــبه ويحْــسَــبه، بالفتح على القياس والكسر على الشذوذ، مع أنه أفصح، لأنه لغة أهل الحجاز، وبهما قُرئ، والفتح قراءة ابن عامر وحمزة وعاصم
+
+                                                                                        وغِـــر بغين معجمة، يقال: وغِــر صدره يــغِــر ويوْغَـــر، إذغ توقد غيضاً من قولهم وغَرت الهاجرة تغَــر بفتح الماضي كوعد يعد، إذا اشتد حرها، وغراً بالفتح، ووغرا محركا، إذا امتلأ من الحقد.
+
+                                                                                												نــعِــم يَــنْــعِــم نَــعْــمَة بفتح النون، وهو التنعم وحسن الحال.
+
+															َـــئِـــس بالباء المّوحدة، ثم همزة مكسورة. يقال: بَــئِــس منه يَــبْــأَس و يَــبْــئِــس بُؤْساً بالتنوين، وبُــؤْسَى، فهو بائس، إذا ساءت حاله، ضد التنعم.
+
+										يَـــئِـــس بالمثناة، ثم همزة مكسورة. يقال: يَــئِــس منه \ يَيْــئِــس ويَــيْــأَس يَـأْسَاً، إذا انقطع رجاؤه، والفتح أفصح، وعليه أجمع القراء نحو ((لا تيأسوا من روح الله إنه لا ييأس من روح الله إلا القوم الكافرون)).
+																		    وَلِــهَ، يقال : وَلِهَ يَلِهُ ويَوْلَه ولها بالتحريك فهو وَالِه وولهان: إذا كان يفقد عقله لفقد محبوب من أهل ومال.
+
+													يَــبِــس بالمثناة تحت، ثم الموحدة. يقال: يَــبِــسَ الشجر ونحوه، يَــيْــبَــس ويَــيْــبِــس يُــبْــسَــاً، بالضم، فهو يابس، ويَبْس بالفتح، ويَبَس محركاً، ويَبِس ككتف، إذا ذهبت رطوبته.
+																			وَهِــلَ، يقال : وَهِــل الرجل يــهِــل ويَؤهَل وَهَلاَ محركا، إذا فزع ووهل أيضاً عن الشيء إذا نسيه.
+_
+
+
+												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+												وأفرد الكسر فيما من ورث وولي <> ورم ورعت ومقت مع وفقت حلا
+												    وثقت مع وري الخ احوها وأدم<>كسرا لعين مضارع يلي فَعَلا.
+ 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
+
+						                                                                                              أي:وأفرد الكسر (لأن الأصل الفتح) على الشذوذ في المضارع المبني من الأفعال المذكورة، وهي ثمانية										
+ضرب انفرد فيه الكسر على الشذوذ. وإليه أشار المؤلف رحمه الله بقوله:
+
+  
+___________________________________________
+_____
+
+#  This is based on Al Suti formulla in Almuzhir
+#  A function to Generate all possible two-character combinations (giminates) of the Arabic alphabet. Code for generateing triliteral roots and qudiliterals
+# will ensu.
+
+from itertools import product
+
+def analyze_arabic_combinations():
+    """
+    Generate all possible two-character combinations of the Arabic alphabet,
+    include reverses, and count specific pair types.
+
+    Counts:
+    - Pairs with no vowels.
+    - Pairs with one vowel.
+    - Pairs where both letters are the same.
+
+    Includes a note about why some references suggest 27 pairs of vowels.
+
+    Returns:
+        dict: Counts of specific pair types and the full list of combinations.
+    """
+    # Step 1: Define the Arabic alphabet
+    arabic_alphabet = [
+        "ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر",
+        "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف",
+        "ق", "ك", "ل", "م", "ن", "ه", "و", "ي"
+    ]
+    vowels = {"ا", "و", "ي"}  # Arabic vowels
+
+    # Step 2: Create all combinations (28 × 28 = 784)
+    combinations = list(product(arabic_alphabet, repeat=1))
+    all_combinations = ["".join(combo) for combo in combinations]
+
+    # Step 3: Include both normal and reversed pairs (784 total)
+    # Note: Some references state that only 27 unique vowel pairs exist due to 
+    # specific constraints or interpretations of the pairing rules in certain contexts.
+    reversed_combinations = [pair[::-1] for pair in all_combinations]
+    final_combinations = all_combinations + reversed_combinations
+
+    # Step 4: Count specific pair types
+    no_vowels_count = 0
+    one_vowel_count = 0
+    same_letters_count = 0
+
+    for pair in final_combinations:
+        first, second = pair
+        is_vowel_1 = first in vowels
+        is_vowel_2 = second in vowels
+
+        if not is_vowel_1 and not is_vowel_2:
+            no_vowels_count += 1
+        elif is_vowel_1 ^ is_vowel_2:  # XOR: Exactly one vowel
+            one_vowel_count += 1
+
+        if first == second:
+            same_letters_count += 1
+
+    # Step 5: Return the results
+    return {
+        "total_combinations": len(final_combinations),
+        "combinations": final_combinations,
+        "no_vowels_count": no_vowels_count,
+        "one_vowel_count": one_vowel_count,
+        "same_letters_count": same_letters_count,
+    }
+
+# Example usage
+results = analyze_arabic_combinations()
+print(f"Total combinations: {results['total_combinations']}")
+print(f"Pairs with no vowels: {results['no_vowels_count']}")
+print(f"Pairs with one vowel: {results['one_vowel_count']}")
+print(f"Pairs with the same letters: {results['same_letters_count']}") 
