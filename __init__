@@ -1,4 +1,7 @@
 
+
+
+
 Q1. Classical Arabic Secondry Phonemes?
 As noted by Bloomfield (1933), Secondry Phonemes are not part of any simple (e.g. alphabet compsing a syllables) meaningful
 speech-form taken by itself, but appear only when two or more are combined into a larger form, or else when speech-forms
@@ -127,6 +130,105 @@ This represents our record of the system of written symbols
 which provides one sign for each phoneme of Arabic language [char]
 i.e. phonetic alphabet. Phonetic transcription /char/ is our record of
 the shape of these symbols in an act of speech. 
+
+
+
+
+
+
+
+
+
+
+
+
+Rules  describing how underlying representations (URs) are transformed into surface forms (phonetic representations). These rules use distinctive features and apply in a derivational manner. A list of phonological rules are given with formal notation:
+
+1. Assimilation Rule.
+
+A phoneme changes to share features with a neighboring sound.
+
+Notation:
+￼
+(where ￼ is a distinctive feature, ￼ and ￼ represent different values, and ￼ and ￼ are the phonological contexts.)
+
+Example:
+	•	English nasal assimilation:
+￼
+(e.g., “input” → [ɪnpʊt] vs. “impossible” → [ɪmpɑsəbl])
+
+2. Dissimilation Rule
+
+A sound changes to become less similar to a neighboring sound.
+
+Notation:
+￼
+
+Example:
+	•	Latin arbore → arbol (where */r/ changes to */l/ to avoid two “r” sounds in the word).
+
+3. Insertion (Epenthesis) Rule
+
+A phoneme is inserted into a word.
+
+Notation:
+\[
+\varnothing \rightarrow X / A \_ B
+\]
+(where \( \varnothing \) represents an empty slot, meaning the sound is inserted.)
+
+Example:
+	•	English plural epenthesis:
+\[
+\varnothing \rightarrow [ə] / sibilant \_ z
+\]
+(e.g., “bus” → [bʌsəz] in plural form)
+
+4. Deletion (Elision) Rule
+
+A phoneme is deleted in certain contexts.
+
+Notation:
+\[
+X \rightarrow \varnothing / A \_ B
+\]
+
+Example:
+	•	English h-deletion in unstressed syllables:
+\[
+h \rightarrow \varnothing / \_ unstressed vowel
+\]
+(e.g., “he” → [i] in casual speech)
+
+5. Metathesis Rule
+
+Two adjacent phonemes switch positions.
+
+Notation:
+￼
+
+Example:
+	•	English ask → [æks] (in some dialects).
+
+6. Vowel Reduction Rule
+
+Unstressed vowels are reduced to a schwa /ə/.
+
+Notation:
+￼
+
+Example:
+	•	“Canada” → [ˈkænədə] (with reduced final vowel).
+
+7. Flapping Rule (in American English)
+
+A /t/ or /d/ becomes a flap [ɾ] between vowels.
+
+Notation:
+￼
+
+Example:
+	•	“butter” → [ˈbʌɾɚ]
 
 
 													Primary Phoneme Rules.
