@@ -16,7 +16,125 @@ Imperfective (Present/Future): يَكْتُبُ (yaktubu – "he writes/will wri
  													
 ____________________________________________________________________________________________________**********************___________________________________________________________________________________
 
+MARC-8
+as G0	MARC-8
+as G1	UCS	UTF-8	CHAR	C?	NAME
+21	A1	0021	21	!		EXCLAMATION MARK
+22	A2	0022	22	"		QUOTATION MARK
+23	A3	0023	23	#		NUMBER SIGN
+24	A4	0024	24	$		DOLLAR SIGN
+25	A5	066A	D9AA	٪		PERCENT SIGN / ARABIC PERCENT SIGN
+26	A6	0026	26	&		AMPERSAND
+27	A7	0027	27	'		APOSTROPHE
+28	A8	0028	28	(		OPENING PARENTHESIS / LEFT PARENTHESIS
+29	A9	0029	29	)		CLOSING PARENTHESIS / RIGHT PARENTHESIS
+2A	AA	066D	D9AD	٭		ASTERISK / ARABIC FIVE POINTED STAR
+2B	AB	002B	2B	+		PLUS SIGN
+2C	AC	060C	D88C	،		ARABIC COMMA
+2D	AD	002D	2D	-		HYPHEN-MINUS
+2E	AE	002E	2E	.		PERIOD, DECIMAL POINT / FULL STOP
+2F	AF	002F	2F	/		SLASH / SOLIDUS
+30	B0	0660	D9A0	٠		ARABIC-INDIC DIGIT ZERO
+31	B1	0661	D9A1	١		ARABIC-INDIC DIGIT ONE
+32	B2	0662	D9A2	٢		ARABIC-INDIC DIGIT TWO
+33	B3	0663	D9A3	٣		ARABIC-INDIC DIGIT THREE
+34	B4	0664	D9A4	٤		ARABIC-INDIC DIGIT FOUR
+35	B5	0665	D9A5	٥		ARABIC-INDIC DIGIT FIVE
+36	B6	0666	D9A6	٦		ARABIC-INDIC DIGIT SIX
+37	B7	0667	D9A7	٧		ARABIC-INDIC DIGIT SEVEN
+38	B8	0668	D9A8	٨		ARABIC-INDIC DIGIT EIGHT
+39	B9	0669	D9A9	٩		ARABIC-INDIC DIGIT NINE
+3A	BA	003A	3A	:		COLON
+3B	BB	061B	D89B	؛		ARABIC SEMICOLON
+3C	BC	003C	3C	<		LESS-THAN SIGN
+3D	BD	003D	3D	=		EQUALS SIGN
+3E	BE	003E	3E	>		GREATER-THAN SIGN
+3F	BF	061F	D89F	؟		ARABIC QUESTION MARK
+41	C1	0621	D8A1	ء		HAMZAH / ARABIC LETTER HAMZA
+42	C2	0622	D8A2	آ		ARABIC LETTER ALEF WITH MADDA ABOVE
+43	C3	0623	D8A3	أ		ARABIC LETTER ALEF WITH HAMZA ABOVE
+44	C4	0624	D8A4	ؤ		ARABIC LETTER WAW WITH HAMZA ABOVE
+45	C5	0625	D8A5	إ		ARABIC LETTER ALEF WITH HAMZA BELOW
+46	C6	0626	D8A6	ئ		ARABIC LETTER YEH WITH HAMZA ABOVE
+47	C7	0627	D8A7	ا		ARABIC LETTER ALEF
+48	C8	0628	D8A8	ب		ARABIC LETTER BEH
+49	C9	0629	D8A9	ة		ARABIC LETTER TEH MARBUTA
+4A	CA	062A	D8AA	ت		ARABIC LETTER TEH
+4B	CB	062B	D8AB	ث		ARABIC LETTER THEH
+4C	CC	062C	D8AC	ج		ARABIC LETTER JEEM
+4D	CD	062D	D8AD	ح		ARABIC LETTER HAH
+4E	CE	062E	D8AE	خ		ARABIC LETTER KHAH
+4F	CF	062F	D8AF	د		ARABIC LETTER DAL
+50	D0	0630	D8B0	ذ		ARABIC LETTER THAL
+51	D1	0631	D8B1	ر		ARABIC LETTER REH
+52	D2	0632	D8B2	ز		ARABIC LETTER ZAIN
+53	D3	0633	D8B3	س		ARABIC LETTER SEEN
+54	D4	0634	D8B4	ش		ARABIC LETTER SHEEN
+55	D5	0635	D8B5	ص		ARABIC LETTER SAD
+56	D6	0636	D8B6	ض		ARABIC LETTER DAD
+57	D7	0637	D8B7	ط		ARABIC LETTER TAH
+58	D8	0638	D8B8	ظ		ARABIC LETTER ZAH
+59	D9	0639	D8B9	ع		ARABIC LETTER AIN
+5A	DA	063A	D8BA	غ		ARABIC LETTER GHAIN
+5B	DB	005B	5B	[		OPENING SQUARE BRACKET / LEFT SQUARE BRACKET
+5D	DD	005D	5D	]		CLOSING SQUARE BRACKET / RIGHT SQUARE BRACKET
+60	E0	0640	D980	ـ		ARABIC TATWEEL
+61	E1	0641	D981	ف		ARABIC LETTER FEH
+62	E2	0642	D982	ق		ARABIC LETTER QAF
+63	E3	0643	D983	ك		ARABIC LETTER KAF
+64	E4	0644	D984	ل		ARABIC LETTER LAM
+65	E5	0645	D985	م		ARABIC LETTER MEEM
+66	E6	0646	D986	ن		ARABIC LETTER NOON
+67	E7	0647	D987	ه		ARABIC LETTER HEH
+68	E8	0648	D988	و		ARABIC LETTER WAW
+69	E9	0649	D989	ى		ARABIC LETTER ALEF MAKSURA
+6A	EA	064A	D98A	ي		ARABIC LETTER YEH
+6B	EB	064B	D98B	ً	C	ARABIC FATHATAN
+6C	EC	064C	D98C	ٌ	C	ARABIC DAMMATAN
+6D	ED	064D	D98D	ٍ	C	ARABIC KASRATAN
+6E	EE	064E	D98E	َ	C	ARABIC FATHA
+6F	EF	064F	D98F	ُ	C	ARABIC DAMMA
+70	F0	0650	D990	ِ	C	ARABIC KASRA
+71	F1	0651	D991	ّ	C	ARABIC SHADDA
+72	F2	0652	D992	ْ	C	ARABIC SUKUN
+73	F3	0671	D9B1	ٱ		ARABIC LETTER ALEF WASLA
+74	F4	0670	D9B0	ٰ		ARABIC LETTER SUPERSCRIPT ALEF
+78	F8	066C	D9AC	٬		ARABIC THOUSANDS SEPARATOR
+79	F9	201D	E2809D	”		RIGHT DOUBLE QUOTATION MARK
+7A	FA	201C	E2809C	“		LEFT DOUBLE QUOTATION MARK
+____________________________________________________________________________________________________***********************________________________________________________________________________________
+													Syntactic Tire
+____________________________________________________________________________________________________***********************________________________________________________________________________________
 
+												><كلامنا لفظٌ مفيد كـــــاســـــتــــقــــــــمِ <> إسم وفعل ثم حرف الكلم>< 
+
+
+In order to recognize the distinctive features of "forms" in our language,
+we need only to determine which features of sound are "different".  
+Linguistic features are divided onto: acoustic & phonemic.
+The features of sound in any utterance (As described by the 
+Arabists' nomenclature) are the Gross Acoustic Features (GAF) of the 
+Utterance in question. The GAF are either indifferent features
+(non-distinctive i.e. not connected to the meaning and essential to
+the communication), or distinctive. Stead of Bloomfield’
+assumption, that the difference between distinctive and non-distinctive
+features lies entirely in the habit of the speaker, we adopt the strict 
+Arabists' nomenclature classification of the GAF. The GAF significance 
+lies in forms parsing. Where approporiate, we shall adopt
+Chomsky's SPE notation and rules. 
+This represents our record of the system of written symbols
+which provides one sign for each phoneme of Arabic language [char]
+i.e. phonetic alphabet. Phonetic transcription /char/ is our record of
+the shape of these symbols in an act of speech. 
+
+
+													Primary Phoneme Rules.
+												وكُلُّ حرفٍ مستحقٌ للبناءْ >< والأصلُ في المبنيِّ أنْ يُسكنا
+
+
+
+For each phonetically destinctive feature is Sukoon : Unicode Character “ﹾ” (U+FE7E) 
+Arabic Sukun Medial Form -> Unicode Character “ﹿ” (U+FE7F)
 
 													***تصاريف الفعل*** 
 
