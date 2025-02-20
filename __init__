@@ -1,24 +1,46 @@
 
+##########################################  Genesis Section ####################################
+ The standard Prosodic Morphology theory is incomplete in a significant way:
+1. it underarticulates the role of well-formedness constraints; knowing that they are obeyed is not the
+   same as knowing how they are obeyed and why they may be violated under other conditions.
+2. The principles of Prosodic Morphology are without force; the vocabulary and constraints of prosody can
+   be active in morphology that is neither templatic nor circumscriptional.
+
+A resolution for the aformentioned can be sought in the classical Arabic morphological & phonological dictates.
+Classical Arabic universal suprasegmental constraints imputed in a hierarchically arranged organization to the utterance.
+However, two questions remains:
+1. what are the units of prosodic structure (Linguistically significant sub-parts)?
+2. What are the principles governing the internal(phonemic & morphologic) & external (pherasal & sentenantal) structure
+ and prominence (not stress, but secondary phonemes, vocalic melody etc) relations within the different prosodic units?
 
 
 
-Q1. Classical Arabic Secondry Phonemes?
-As noted by Bloomfield (1933), Secondry Phonemes are not part of any simple (e.g. alphabet compsing a syllables) meaningful
-speech-form taken by itself, but appear only when two or more are combined into a larger form, or else when speech-forms
-are used in certain ways-- especially as sentences. In English foot Σ, syllable σ stress functions as a secondry phoneme 
-where the first syllable in nouns recieves the primary stress while it is the second syllable for a "verb", hence /'ob,ject/ and /ob'ject/ respectively.
+	- 064E.
+	- 064F.
+	- 0650.
+	- 0652.
+	- 0651.
+	- 064B.
+	- 064C.
+	- 064D.
 
-الضاربَ الشاتمَ المكرِمَ المعطيَة درهما القائمُ في داره أخوكَ سوطاً أكرمَ الأكلُ طعامهَ غلامُه زيدٌ عمرو خالدٍ بكراً عبدَالله أخوكْ.
-________________________________________________________________________________________________________________________________________________________________________________________________
-The follwoing is based on Bloomfield (1933), Aronoff (1976), & McCarthi (1989 & 1985).
-Arabic language combines tense with aspect (how an action unfolds over time):
 
-Perfective (completed actions) vs. Imperfective (ongoing/habitual actions)
-Example in Arabic:
-Perfective (Past): كَتَبَ (kataba – "he wrote")
-Imperfective (Present/Future): يَكْتُبُ (yaktubu – "he writes/will write")
- 													
-____________________________________________________________________________________________________**********************___________________________________________________________________________________
+
+##########################################  Genesis Section ####################################
+
+
+
+
+
+
+##########################################   Re Rules Section ####################################
+
+
+
+
+
+
+
 
 MARC-8
 as G0	MARC-8
@@ -106,217 +128,15 @@ as G1	UCS	UTF-8	CHAR	C?	NAME
 78	F8	066C	D9AC	٬		ARABIC THOUSANDS SEPARATOR
 79	F9	201D	E2809D	”		RIGHT DOUBLE QUOTATION MARK
 7A	FA	201C	E2809C	“		LEFT DOUBLE QUOTATION MARK
-____________________________________________________________________________________________________***********************________________________________________________________________________________
-													Syntactic Tire
-____________________________________________________________________________________________________***********************________________________________________________________________________________
 
-												><كلامنا لفظٌ مفيد كـــــاســـــتــــقــــــــمِ <> إسم وفعل ثم حرف الكلم>< 
 
+##########################################   Re Rules Section ####################################
 
-In order to recognize the distinctive features of "forms" in our language,
-we need only to determine which features of sound are "different".  
-Linguistic features are divided onto: acoustic & phonemic.
-The features of sound in any utterance (As described by the 
-Arabists' nomenclature) are the Gross Acoustic Features (GAF) of the 
-Utterance in question. The GAF are either indifferent features
-(non-distinctive i.e. not connected to the meaning and essential to
-the communication), or distinctive. Stead of Bloomfield’
-assumption, that the difference between distinctive and non-distinctive
-features lies entirely in the habit of the speaker, we adopt the strict 
-Arabists' nomenclature classification of the GAF. The GAF significance 
-lies in forms parsing. Where approporiate, we shall adopt
-Chomsky's SPE notation and rules. 
-This represents our record of the system of written symbols
-which provides one sign for each phoneme of Arabic language [char]
-i.e. phonetic alphabet. Phonetic transcription /char/ is our record of
-the shape of these symbols in an act of speech. 
+_______________________________________________________________________________________________________________
 
 
 
-
-
-
-
-
-
-
-
-
-Rules  describing how underlying representations (URs) are transformed into surface forms (phonetic representations). These rules use distinctive features and apply in a derivational manner. A list of phonological rules are given with formal notation:
-
-1. Assimilation Rule.
-
-A phoneme changes to share features with a neighboring sound.
-
-Notation:
-￼
-(where ￼ is a distinctive feature, ￼ and ￼ represent different values, and ￼ and ￼ are the phonological contexts.)
-
-Example:
-	•	English nasal assimilation:
-￼
-(e.g., “input” → [ɪnpʊt] vs. “impossible” → [ɪmpɑsəbl])
-
-2. Dissimilation Rule
-
-A sound changes to become less similar to a neighboring sound.
-
-Notation:
-￼
-
-Example:
-	•	Latin arbore → arbol (where */r/ changes to */l/ to avoid two “r” sounds in the word).
-
-3. Insertion (Epenthesis) Rule
-
-A phoneme is inserted into a word.
-
-Notation:
-\[
-\varnothing \rightarrow X / A \_ B
-\]
-(where \( \varnothing \) represents an empty slot, meaning the sound is inserted.)
-
-Example:
-	•	English plural epenthesis:
-\[
-\varnothing \rightarrow [ə] / sibilant \_ z
-\]
-(e.g., “bus” → [bʌsəz] in plural form)
-
-4. Deletion (Elision) Rule
-
-A phoneme is deleted in certain contexts.
-
-Notation:
-\[
-X \rightarrow \varnothing / A \_ B
-\]
-
-Example:
-	•	English h-deletion in unstressed syllables:
-\[
-h \rightarrow \varnothing / \_ unstressed vowel
-\]
-(e.g., “he” → [i] in casual speech)
-
-5. Metathesis Rule
-
-Two adjacent phonemes switch positions.
-
-Notation:
-￼
-
-Example:
-	•	English ask → [æks] (in some dialects).
-
-6. Vowel Reduction Rule
-
-Unstressed vowels are reduced to a schwa /ə/.
-
-Notation:
-￼
-
-Example:
-	•	“Canada” → [ˈkænədə] (with reduced final vowel).
-
-7. Flapping Rule (in American English)
-
-A /t/ or /d/ becomes a flap [ɾ] between vowels.
-
-Notation:
-￼
-
-Example:
-	•	“butter” → [ˈbʌɾɚ]
-
-
-													Primary Phoneme Rules.
-												وكُلُّ حرفٍ مستحقٌ للبناءْ >< والأصلُ في المبنيِّ أنْ يُسكنا
-
-
-
-For each phonetically destinctive feature is Sukoon : Unicode Character “ﹾ” (U+FE7E) 
-Arabic Sukun Medial Form -> Unicode Character “ﹿ” (U+FE7F)
-
-													***تصاريف الفعل*** 
-
-  
-:لما أنهى الناظم رحمه الله حكم أبنية المضارع المبني حكم أبنية الفعل المجرد وهو الأربعة : فَــعْــلَــلَ وفَــعُــلَ وفَــعِــلَ وفَــعَــل، شرع في تصاريفه .وتصريف الفعل هو إختلاف حال مضارعه بضم أو كسر أو فتح . وبدأ بمضارع فــعُــل المضموم ثم المكسور لقلة الكلام عليهما. فقال
-
-												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-												  فالضمّ من فعُل الزم في المضارع وافت><ـح موضع الكسر في المبني من فَعِلا
- 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-
-For the imperfective binyan of the trilateral verbs whose perfective canonical binyan is /fa.ˈʕu .la/, the nuclei is not changed i.e. /jaf.ˈʕu.lu/. Hence, CV.CV.CV becomes in the imperfective as CVC.CV.CV.
-Note: the second radical is followed/ marked by a /u/ = Close back rounded vowel (the nuclei).
-Past Tense (CV•CV•CV)	Present Tense (CVC•CV•CV)
-كَرُمَ → /ka•ˈru•ma/	يَكْرُمُ → /jak•ˈru•mu/
-جَنُبَ → /ja•ˈnu•ba/	يَجْنُبُ → /jadʒ•ˈnu•bu/
-قَرُبَ → /qa•ˈru•ba/	يَقْرُبُ → /jaq•ˈru•bu/
-عَزُبَ → /ʕa•ˈzu•ba/	يَعْزُبُ → /jaʕ•ˈzu•bu/
-صَلُبَ → /sa•ˈlu•ba/	يَصْلُبُ → /jas•ˈlu•bu/
-نَجُبَ → /na•ˈdʒu•ba/	يَنْجُبُ → /jandʒ•ˈu•bu/
-بَحُتَ → /ba•ˈħu•ta/	يَبْحُتُ → /jab•ˈħu•ṭu/
-فَرُتَ → /fa•ˈru•ta/	يَفْرُتُ → /jaf•ˈru•ṭu/
-قَبُحَ → /qa•ˈbu•ħa/	يَقْبُحُ → /jaq•ˈbu•ħu/
-صَرُحَ → /sa•ˈru•ħa/	يَصْرُحُ → /jas•ˈru•ħu/
-حَسُنَ → /ħa•ˈsu•na/	يَحْسُنُ → /jaħ•ˈsu•nu/
-
-
-For the imperfective binyan of the trilateral verbs whose perfective canonical binyan is /fa.ˈʕi .la/, change the nuclei to the open front unrounded vowel /a/ .i.e. /jafˈ.ʕa.lu/.
-Note: the second radical is followed/ marked by a /i/ = Close front unrounded vowel (the nuclei).
-
-
-
-
-
-
-
-
-
-
-                                                                                   .أي: والزم ضمة العين التي في فَــعُــل المضموم في مضارعه أيضاً، فنقول في كَرُمَ يكــرُمُ، وفي شرُف يشرُف. ولم يشذ من ذلك شيء أصلا إلا ما جاء على تداخل اللغتين.
-                                                                                                      .ثم قال: وافتح موضع الكسر، وهو العين من فَعِل المكسور في المضارع المبني منه، فنقول في : فَرِحَ يفرَح وفي سمِعَ يسمَعُ. وهذا هو الأصل
-                                                                                                            
-
-												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-												وجهان فيه من إحسب مع وغرت وحــر ><ت انعم بئست يئست أوله يبس وهلا
- 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-
-                                                                                   وقد شذّت منه أفعال محصورة جاء في مضارعها الكسر وهي ضربان (١). ضرب جاء مع الكسرة فيه الفتحُ أيضاً الذي هو الأصل.وإليه أشار المؤلف رحمه الله في البيت أعلاه .وهي تسعة أفعال: 
- 
-                                                                                      .حــسِــب بمعنى ظن يقال حَــسِــبه يحْــسَــبه ويحْــسَــبه، بالفتح على القياس والكسر على الشذوذ، مع أنه أفصح، لأنه لغة أهل الحجاز، وبهما قُرئ، والفتح قراءة ابن عامر وحمزة وعاصم
-
-                                                                                        وغِـــر بغين معجمة، يقال: وغِــر صدره يــغِــر ويوْغَـــر، إذغ توقد غيضاً من قولهم وغَرت الهاجرة تغَــر بفتح الماضي كوعد يعد، إذا اشتد حرها، وغراً بالفتح، ووغرا محركا، إذا امتلأ من الحقد.
-
-                                                                                												نــعِــم يَــنْــعِــم نَــعْــمَة بفتح النون، وهو التنعم وحسن الحال.
-
-															َـــئِـــس بالباء المّوحدة، ثم همزة مكسورة. يقال: بَــئِــس منه يَــبْــأَس و يَــبْــئِــس بُؤْساً بالتنوين، وبُــؤْسَى، فهو بائس، إذا ساءت حاله، ضد التنعم.
-
-										يَـــئِـــس بالمثناة، ثم همزة مكسورة. يقال: يَــئِــس منه \ يَيْــئِــس ويَــيْــأَس يَـأْسَاً، إذا انقطع رجاؤه، والفتح أفصح، وعليه أجمع القراء نحو ((لا تيأسوا من روح الله إنه لا ييأس من روح الله إلا القوم الكافرون)).
-																		    وَلِــهَ، يقال : وَلِهَ يَلِهُ ويَوْلَه ولها بالتحريك فهو وَالِه وولهان: إذا كان يفقد عقله لفقد محبوب من أهل ومال.
-
-													يَــبِــس بالمثناة تحت، ثم الموحدة. يقال: يَــبِــسَ الشجر ونحوه، يَــيْــبَــس ويَــيْــبِــس يُــبْــسَــاً، بالضم، فهو يابس، ويَبْس بالفتح، ويَبَس محركاً، ويَبِس ككتف، إذا ذهبت رطوبته.
-																			وَهِــلَ، يقال : وَهِــل الرجل يــهِــل ويَؤهَل وَهَلاَ محركا، إذا فزع ووهل أيضاً عن الشيء إذا نسيه.
-_
-
-
-												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-												وأفرد الكسر فيما من ورث وولي <> ورم ورعت ومقت مع وفقت حلا
-												    وثقت مع وري الخ احوها وأدم<>كسرا لعين مضارع يلي فَعَلا.
- 												>>>>>>>>>>>>>>>>>>>>>>>>>|<<<<<<<<<<<<<<<<<<<<<<<<<
-
-						                                                                                              أي:وأفرد الكسر (لأن الأصل الفتح) على الشذوذ في المضارع المبني من الأفعال المذكورة، وهي ثمانية										
-ضرب انفرد فيه الكسر على الشذوذ. وإليه أشار المؤلف رحمه الله بقوله:
-
-  
-___________________________________________
-_____
-
-#  This is based on Al Suti formulla in Almuzhir
-#  A function to Generate all possible two-character combinations (giminates) of the Arabic alphabet. Code for generateing triliteral roots and qudiliterals
-# will ensu.
+########################################## Code Section ####################################
 
 from itertools import product
 
@@ -385,4 +205,7 @@ results = analyze_arabic_combinations()
 print(f"Total combinations: {results['total_combinations']}")
 print(f"Pairs with no vowels: {results['no_vowels_count']}")
 print(f"Pairs with one vowel: {results['one_vowel_count']}")
+
+
+##########################################  END Code Section ####################################
 print(f"Pairs with the same letters: {results['same_letters_count']}") 
